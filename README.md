@@ -3,9 +3,7 @@
 <h3 align="center">I am preparing myself for a career in data science by honing my skills in programming , machine learning and statistics.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F4bGN3Mjd0MGh6YXE4N2k0dTY0YXN0dHB4enpseno2YnZtZ3FsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy_s.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuawaish&label=Profile%20views&color=0e75b6&style=flat" alt="abuawaish" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abu_awaish7" target="blank"><img src="https://img.shields.io/twitter/follow/abu_awaish7?logo=twitter&style=for-the-badge" alt="abu_awaish7" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
