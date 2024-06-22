@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abuawaish7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_CF85fI3_F2it04_R8U8C-EA8oL1pjoN/view?usp=sharing](https://drive.google.com/file/d/1_CF85fI3_F2it04_R8U8C-EA8oL1pjoN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_CF85fI3_F2it04_R8U8C-EA8oL1pjoN/view?usp=sharing](https://drive.google.com/file/d/1H-EuJeq7ngsvcTLtJmdmC7_i8lkpxpa5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
